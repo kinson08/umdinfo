@@ -2,6 +2,7 @@ dependencies:
   - python=3
   - pip:
     - lxml
+    - bs4
     - numpy
     - matplotlib
     - pandas
