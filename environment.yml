@@ -6,6 +6,5 @@ dependencies:
     - bs4
     - numpy
     - matplotlib
-    - lxml
     - pandas
-    - tushare
+    - feedparser
