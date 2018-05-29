@@ -1,1 +1,2 @@
 pip install tushare
+pip install stockstats
